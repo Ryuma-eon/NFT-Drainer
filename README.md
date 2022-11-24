@@ -7,7 +7,7 @@
 
 ---
 
-## 🖼️ Cool Cats FC NFT Stealer / ETH Stealer / **V1** Drainer Template ` stable version `
+## 🖼️ Cool Cats FC NFT Stealer / ETH Stealer / **V1** Drainer ` stable version `
 
 ---
 
